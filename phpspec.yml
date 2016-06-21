@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: sidelines
+        psr4_prefix: sidelines
+        src_path: app

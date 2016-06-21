@@ -1,0 +1,57 @@
+.center-print {
+  position: relative;
+  background: red;
+  display: inline-block;
+}
+
+.print-header {
+  display: inline;
+}
+
+.resume{
+    font-family: Arial !important;
+    line-height: 1.1;
+    font-size: 14.666667px;
+}
+
+.info{
+    display: flex; /* establish flex container */
+    flex-direction:row; /* make main axis horizontal (default value) */
+    justify-content: center; /* center items horizontally, in this case */
+    margin-left: 144px;
+}
+
+.pull-left{
+    margin-bottom: 18px;
+    margin-left:15px;
+}
+
+.pull-right{
+    text-align: right;
+    margin-right: 15px;
+}
+
+.temp3-hr{
+    border-width: 2px;
+    border-color: #464545;
+}
+
+@media print {
+    .left-col {
+        width: 330px;
+        float: left;
+    }
+
+    .right-col {
+        width: 330px;
+        float: right;
+    }
+}
+
+b, strong{
+    font-family: Arial!important;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: Arial!important;
+}

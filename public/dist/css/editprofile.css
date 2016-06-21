@@ -1,0 +1,8 @@
+
+.textarea-desc{
+    resize:vertical; max-height:400px;
+}
+
+.btn-save{
+    width: 20%;
+}

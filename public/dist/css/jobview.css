@@ -1,0 +1,184 @@
+.jobpost-label{
+    font-family: "Roboto",sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 1.3;
+    margin-left: 12px;
+    margin-right: 25px;
+}
+
+.jobpost-p{
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 20px;
+}
+
+.job-delete{
+    font-size: large!important;
+    color: #918f8e !important;
+    line-height: 0!important;
+}
+
+.job-delete:hover{
+    color: #dd4b39 !important;
+}
+
+.box-title{
+    display: inline-block;
+    margin: 0;
+    margin-bottom: -14px;
+    line-height: 1;
+    font-size: 25px!important;
+    font-family: "Roboto",sans-serif;
+    color: #13a0d6;
+}
+
+.jobview-btn{
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0)!important;
+    background-color: #0fb1ef !important;
+    border-radius: 8px !important;
+    width: 12% ;
+    margin-top: 10px;
+    border-radius: 7px;
+
+}
+
+.recom-btn{
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0)!important;
+    background-color: #0fb1ef !important;
+    border-radius: 8px !important;
+    width: 40%;
+
+}
+
+.recom-btn-cancel{
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0)!important;
+    background-color: #f39c12 !important;
+    border-radius: 8px !important;
+    width: 40%;
+}
+
+.recom-btn-cancel:hover{
+    border-color: #f39c12!important;
+    background-color: #ffffff !important;
+    color:  #f39c12!important;
+
+}
+
+
+.jobview-btn:disabled{
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0)!important;
+    background-color: #0fb1ef !important;
+    border-radius: 8px !important;
+    width: 20% ;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+.jobview-btn:hover{
+    border-color: #0fb1ef !important;
+    background-color: #ffffff !important;
+    color: #0fb1ef !important;
+
+}
+
+.jobview-btn-cancel{
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0)!important;
+    background-color: #f39c12 !important;
+    border-radius: 8px !important;
+    width: 12% ;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+.jobview-btn-cancelapp{
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0)!important;
+    background-color: #f39c12 !important;
+    border-radius: 8px !important;
+    width: 20% ;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+.jobview-btn-cancelapp:hover{
+    border-color: #f39c12!important;
+    background-color: #ffffff !important;
+    color:  #f39c12!important;
+}
+
+.jobview-btn-cancel:hover{
+    border-color: #f39c12!important;
+    background-color: #ffffff !important;
+    color:  #f39c12!important;
+}
+
+.jobview-control{
+    border: 1px solid;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+.jobpost-content{
+    margin-top:-20px;
+}
+
+.jobcreate-desc{
+    margin-bottom:20px;
+    resize:vertical;
+    max-height:400px;
+}
+textarea.jobcreate-otherben{
+    margin-bottom:20px;
+    resize:vertical;
+    height: 100px;
+    max-height:200px !important;
+}
+
+.btn-del-no{
+    border-color: #07bbe7 !important;
+    background-color: #07bbe7 !important;
+    color: #ffffff !important;
+    padding: auto;
+    width: 50%;
+    margin-right: 200px!important;
+    margin-left: auto;
+    margin-top:5px;
+    font-size: 15px;
+}
+
+.btn-del-no:hover{
+    border-color: #07bbe7 !important;
+    background-color: #ffffff !important;
+    color: #07bbe7 !important;
+}
+
+.btn-del-yes{
+    border-color: #dd4b39 !important;
+    background-color: #dd4b39 !important;
+    color: #ffffff !important;
+    padding: auto;
+    width: 50%;
+    margin-left: 150px !important;
+    margin-top:5px;
+    font-size: 15px;
+}
+
+.btn-del-yes:hover{
+border-color: #dd4b39 !important;
+background-color: #ffffff !important;
+color: #dd4b39 !important;
+}
+
+.action-btns2{
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
